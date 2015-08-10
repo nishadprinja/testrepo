@@ -1,4 +1,4 @@
-var rav = "MMM ravioli"
+var rav = "MMM ravioli~!"
 
 var piz = "MMM pizza"
 
@@ -7,3 +7,9 @@ function itsPizzaTime () {
 };
 
 itsPizzaTime()
+
+function itsRavTime () {
+	console.log(piz)
+};
+
+itsRavTime()
