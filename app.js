@@ -1,7 +1,7 @@
 var rav = "MMM ravioli"
 
-function itsRavioliTime () {
+function itsPizzaTime () {
 	console.log(rav)
 };
 
-itsRavioliTime()
+itsPizzaTime()
